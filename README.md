@@ -1,4 +1,4 @@
-# Výukový projekt základů JavaScriptu
+# JavaScript basics tutorial project
 
 > Inspired by [40 JavaScript Projects for Beginners](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#heading-how-to-create-a-color-flipper)
 
