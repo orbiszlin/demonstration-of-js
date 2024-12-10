@@ -21,5 +21,6 @@ their lessons with interactive elements and real-world examples.
 The projects are written as individual subfolders (i.e. a "monorepo" is created). In each subfolder there is source code
 for that project. Thus, no rewriting or code duplication is needed.
 
+- [Basic](basic) - Basic of JS
 - [Color Toggle](color-toggle)
 - [Text Bouncing animate](text-bouncing-animate)
