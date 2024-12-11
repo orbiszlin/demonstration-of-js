@@ -3,7 +3,7 @@
 Simple accordion to demonstrate adding and removing, so-called "toggling" css `class` to achieve display and
 hiding certain sections in the FAQ.
 
-![showcase.png](showcase.png)
+![showcase.gif](showcase.gif)
 
 ## Files
 
