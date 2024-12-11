@@ -24,3 +24,4 @@ for that project. Thus, no rewriting or code duplication is needed.
 - [Basic](basic) - Basic of JS
 - [Color Toggle](color-toggle)
 - [Text Bouncing animate](text-bouncing-animate)
+- [FAQ - Accordion showcase](faq)
